@@ -23,6 +23,6 @@ This project is a social media application built using the MERN stack (MongoDB, 
 - **Authentication:** JWT, bcrypt
 - **File Uploads:** Multer
 
-  ##ScreenShots
+  ## ScreenShots
 
-  ![Home Page](./images/33.png)
+  ![Home Page](./image.png)
