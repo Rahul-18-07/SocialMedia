@@ -25,4 +25,4 @@ This project is a social media application built using the MERN stack (MongoDB, 
 
   ##ScreenShots
 
-  ![Home Page](./images/33.jpg)
+  ![Home Page](./images/33.png)
